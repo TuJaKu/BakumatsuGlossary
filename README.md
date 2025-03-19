@@ -8,7 +8,7 @@ The project was inspired by the 2023 video game **Like a Dragon: Ishin!**, set d
 
 -Easily searchable terms related to the Bakumatsu-period, from samurai to foreign powers
 
--Multile pseudonyms for the same entry (e.g. searching for America and United States leads to the same entry)
+-Multiple pseudonyms for the same entry (e.g. searching for America and United States leads to the same entry)
 
 -Flexible display options:  
   - View all searchable terms at once  
