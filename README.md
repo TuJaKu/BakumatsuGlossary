@@ -1,4 +1,4 @@
-A glossary of key terms from the **Bakumatsu period (1853-1869)**, the final years of the Edo period in Japan.
+A glossary of key terms from the **Bakumatsu period (1853-1869)**, the final years of the Edo period in Japan. Content is incomplete but the code portion is done.
 
 ## About This Project
 
